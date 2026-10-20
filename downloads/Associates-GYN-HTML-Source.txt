@@ -1,0 +1,1072 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gynecology &amp; GYN Surgery in Colorado Springs | Dr. Jack Tubbs | Associates in Obstetrics &amp; Gynecology</title>
+<meta name="description" content="Now accepting new gynecology patients in Colorado Springs. Dr. Jack Tubbs, MD, FACOG treats fibroids, prolapse, pelvic pain, ovarian cysts and endometriosis, and performs hysterectomy and prolapse repair with da Vinci robotic surgery.">
+<link rel="icon" href="https://associates-obgyn.com/wp-content/uploads/2024/06/AOG-favicon.jpg">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=DM+Serif+Display:ital@0;1&amp;family=Cormorant+Garamond:ital,wght@0,500;1,500&amp;display=swap" rel="stylesheet">
+<style>
+
+
+:root {
+  --teal: #143f47;
+  --teal-deep: #103234;
+  --olive: #526644;
+  --olive-deep: #405236;
+  --sage: #c5d4ac;
+  --sage-lt: #edf1e5;
+  --mint: #f0f2e9;
+  --paper: #faf8f2;
+  --ink: #263c3b;
+  --muted: #5c6963;
+  --rule: #d8ddd3;
+  --rule-soft: #e5e7de;
+  --gold: #af7822;
+  --review-star: #fbbc04;
+  --teal-line: #ffffff24;
+  --hdr: 84px;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: 'DM Sans', sans-serif; font-size: 16px; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+img { display: block; max-width: 100%; }
+svg { flex-shrink: 0; }
+a { color: inherit; text-decoration: none; }
+button { font: inherit; cursor: pointer; }
+ul { list-style: none; margin: 0; padding: 0; }
+p { margin: 0 0 1.2em; }
+p:last-child { margin-bottom: 0; }
+h1,h2,h3 { margin: 0; color: var(--teal); font-weight: 400; }
+h1,h2 { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; letter-spacing: -.04em; }
+h1 { font-size: clamp(44px, 4.5vw, 66px); line-height: 1.08; }
+h1 em { color: var(--olive); font-weight: 400; }
+h2 { font-size: clamp(36px, 3.4vw, 49px); line-height: 1.14; }
+h3 { font-size: 23px; font-weight: 600; line-height: 1.3; letter-spacing: -.025em; }
+section[id] { scroll-margin-top: 135px; }
+[hidden] { display: none !important; }
+.wrap { max-width: 1360px; margin: auto; padding-inline: 40px; }
+.sec { padding-block: 96px; }
+.kicker { display: flex; align-items: center; gap: 10px; color: var(--olive); font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .15em; margin-bottom: 20px; line-height: 1.6; }
+.kicker span { width: 7px; height: 7px; background: currentColor; border-radius: 50%; flex-shrink: 0; }
+.lede { font-size: 17px; color: var(--muted); line-height: 1.8; max-width: 62ch; }
+.btn { display: inline-flex; justify-content: center; align-items: center; gap: 9px; padding: 15px 23px; border-radius: 7px; border: 1px solid transparent; font-size: 13px; font-weight: 600; min-height: 50px; line-height: 1.4; transition: background .2s, transform .2s; }
+.btn:hover { transform: translateY(-2px); }
+.btn-solid,.btn-teal { background: var(--teal); color: white; }
+.btn-solid:hover,.btn-teal:hover { background: var(--olive-deep); }
+.btn-line { color: var(--teal); border-color: #b4c0b5; background: transparent; }
+.btn-line:hover { background: var(--sage-lt); }
+.btn-ghost { color: white; border-color: #ffffff55; background: transparent; }
+.btn-ghost:hover { background: #ffffff15; }
+.btn-ico { width: 17px; height: 17px; }
+:focus-visible { outline: 3px solid var(--gold); outline-offset: 5px; }
+.skip-link { position: fixed; top: -100px; left: 20px; z-index: 2000; background: white; padding: 12px 20px; border-radius: 6px; }
+.skip-link:focus { top: 12px; }
+
+/* A quiet, compact header keeps the appointment action in reach. */
+.hdr { position: sticky; top: 0; z-index: 900; background: #fffffff5; backdrop-filter: blur(16px); border-bottom: 1px solid var(--rule-soft); }
+.strip { text-align: center; background: #eaf0e7; color: var(--teal); padding: 9px 20px; font-size: 11px; letter-spacing: .035em; }
+.strip em { padding-inline: 14px; font-style: normal; color: var(--sage); }
+.strip-tel { text-decoration: underline; text-underline-offset: 3px; }
+.hdr-in { max-width: 1360px; padding: 0 40px; margin: auto; height: var(--hdr); display: flex; align-items: center; gap: 30px; }
+.hdr-logo { flex-shrink: 0; }
+.hdr-logo img { width: 190px; height: auto; }
+.hdr-nav { margin-left: auto; }
+.hdr-nav ul { display: flex; gap: 25px; }
+.hdr-nav a { font-size: 12px; font-weight: 500; white-space: nowrap; }
+.hdr-nav a:hover,.hdr-nav a[aria-current] { color: var(--olive); text-decoration: underline; text-underline-offset: 6px; }
+.hdr-act { display: flex; align-items: center; gap: 22px; }
+.hdr-tel { font-size: 12px; font-weight: 600; white-space: nowrap; }
+.hdr-tel svg { display: none; }
+.hdr-cta { padding: 13px 17px; font-size: 12px; min-height: 44px; }
+.lbl-m { display: none; }
+.menu-toggle { display: none; }
+
+/* Editorial hero: approved imagery, generous type, and a distinct proof row. */
+.hero { padding-top: 40px; background: var(--teal); }
+.hero-grid { display: grid; grid-template-columns: 1fr 1.08fr; gap: 40px 64px; align-items: center; }
+.hero-copy { padding-block: 18px; }
+.hero .kicker { font-size: 11px; letter-spacing: .13em; color: #b9cbc2; }
+.hero h1 { margin-bottom: 28px; max-width: 16ch; font-size: clamp(52px,5.1vw,76px); color: white; }
+.hero h1 em { color: #dce7b9; }
+.hero .lede { font-size: 15px; line-height: 1.85; margin-bottom: 28px; color: #d4e0dc; }
+.hero .btn-solid { background: #e2ebc9; color: var(--teal); border-radius: 4px; }
+.hero .btn-solid:hover { background: #f0f5df; }
+.hero .btn-line { border-color: transparent; border-radius: 0; color: white; padding-inline: 6px; text-decoration: underline; text-underline-offset: 4px; }
+.hero .btn-line:hover { background: #ffffff0d; }
+.hero-btns { display: flex; gap: 12px; flex-wrap: wrap; }
+.hero-media { position: relative; margin-right: 0; }
+.plate { position: relative; }
+.plate img { width: 100%; height: auto; object-fit: cover; }
+.photo-window { position: relative; overflow: hidden; isolation: isolate; background: #e3e8dc; }
+.hero .photo-window { aspect-ratio: 50 / 51; border-radius: 160px 6px 6px 6px; }
+.hero .plate img { width: 100%; height: 100%; position: absolute; inset: 0; object-position: 50% 50%; }
+.hero .photo-window::after { content: ''; position: absolute; inset: 35% 0 0; background: linear-gradient(transparent, rgba(8, 28, 28, .8)); pointer-events: none; }
+.hero-photo-caption { position: absolute; z-index: 1; left: 32px; right: 28px; bottom: 30px; color: white; }
+.hero-photo-label { display: block; font-size: 10px; font-weight: 600; letter-spacing: .15em; line-height: 1.6; margin-bottom: 16px; }
+.hero-photo-message { display: block; font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; font-size: clamp(24px, 2.1vw, 36px); line-height: 1.15; letter-spacing: -.015em; }
+.hero .plate-frame { display: none; }
+.plate-frame { position: absolute; inset: -12px -12px 12px 12px; border: 1px solid #9aa98b; border-radius: 120px 120px 16px 16px; pointer-events: none; }
+.gbadge { display: flex; align-items: center; gap: 12px; margin-top: 25px; width: fit-content; color: white; }
+.gmark { width: 28px; height: 28px; }
+.gbadge .g { font-size: 23px; font-weight: 600; line-height: 1; }
+.stars { display: block; height: 16px; width: auto; color: var(--review-star); }
+.gbadge .n { font-size: 11px; color: #d4e0dc; margin-top: 4px; }
+.hero .stars { color: var(--review-star); }
+.proof { grid-column: 1 / -1; display: grid; grid-template-columns: repeat(4,1fr); border-top: 1px solid #ffffff30; padding-block: 28px; gap: 32px; }
+.proof li { color: #d4e0dc; font-size: 12px; line-height: 1.65; border-right: 1px solid #ffffff30; padding-right: 20px; }
+.proof li:last-child { border: 0; }
+.proof b { color: #e2ebc9; display: block; font-size: 14px; font-weight: 600; margin-bottom: 5px; }
+.band { background: #10343c; margin-top: 0; }
+.band-in { padding-block: 32px; }
+.band-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 70px; }
+.band-grid li { display: grid; grid-template-columns: 48px 1fr; column-gap: 20px; }
+.band-ico { grid-row: 1 / 3; width: 44px; height: 44px; color: var(--sage); padding: 9px; border: 1px solid #c5d4ac40; border-radius: 50%; }
+.band h3 { font-family: 'DM Serif Display',serif; font-weight: 400; font-size: 22px; color: white; margin-bottom: 8px; }
+.band p { color: #d9e2dc; font-size: 13px; line-height: 1.8; }
+
+/* Conditions keep every approved detail while offering a shorter path through it. */
+.care { background: #fffefa; }
+.idx-head { max-width: 720px; margin-bottom: 42px; }
+.idx-head h2 { margin-bottom: 20px; }
+.idx-head .lede { font-size: 16px; }
+.idx { margin-top: 50px; }
+.grp { font-size: 19px; font-weight: 600; color: var(--teal); display: flex; align-items: center; justify-content: space-between; gap: 20px; padding-bottom: 16px; margin-bottom: 24px; border-bottom: 1px solid var(--rule); }
+.grp em { font-size: 12px; font-style: normal; font-weight: 400; color: var(--muted); }
+.condition-nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+.condition-tab { background: transparent; border: 2px solid var(--teal); border-radius: 6px; padding: 12px 17px; font-size: 12px; font-weight: 600; color: var(--teal); min-height: 44px; }
+.condition-tab[aria-selected="true"] { background: var(--teal); color: white; border-color: var(--teal); }
+.condition-tab:not([aria-selected="true"]):hover { background: var(--mint); border-color: var(--teal-deep); color: var(--teal-deep); }
+.care-list { display: grid; gap: 24px; }
+.ccard { display: grid; grid-template-columns: 1.35fr 1fr; border: 1px solid var(--rule-soft); background: var(--mint); border-radius: 12px; overflow: hidden; }
+.ccard-body { padding: 38px 42px; }
+.ccard h3 { font-family: 'DM Serif Display',serif; font-weight: 400; font-size: 33px; }
+.gloss { display: block; font: 400 13px/1.5 'DM Sans', sans-serif; color: var(--olive); margin-top: 6px; letter-spacing: 0; }
+.card-intro { font-size: 14px; color: var(--muted); margin-top: 18px; }
+.sym-label,.p-label { font-size: 10px; text-transform: uppercase; letter-spacing: .12em; font-weight: 700; margin-top: 24px; margin-bottom: 13px; }
+.sym { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 20px; margin-bottom: 20px; }
+.sym li,.plist li { position: relative; padding-left: 17px; font-size: 13px; line-height: 1.65; }
+.sym li::before,.plist li::before { content: ''; width: 5px; height: 5px; border-radius: 50%; background: var(--olive); position: absolute; top: 8px; left: 0; }
+.card-note { padding: 17px 19px; background: #fffefa; border-left: 2px solid #95a779; border-radius: 0 6px 6px 0; font-size: 13px; line-height: 1.8; margin-bottom: 21px; }
+.card-note b { font-weight: 600; }
+.card-cta { padding: 8px 0; border: 0; border-bottom: 1px solid var(--olive); background: none; color: var(--olive-deep); font-size: 13px; font-weight: 600; text-align: left; }
+.card-cta::after { content: ' ↗'; margin-left: 14px; }
+.ccard-media { min-height: 100%; position: relative; }
+.ccard-media img { width: 100%; height: 100%; position: absolute; object-fit: cover; }
+.pgrid { display: grid; grid-template-columns: repeat(3,1fr); gap: 20px; }
+.pcard { background: var(--paper); border: 1px solid var(--rule-soft); border-radius: 10px; padding: 30px 26px; display: flex; flex-direction: column; }
+.pcard h3 { font-family: 'DM Serif Display',serif; font-weight: 400; font-size: 29px; }
+.pcard .gloss { min-height: 40px; }
+.p-intro { font-size: 14px; line-height: 1.85; color: var(--muted); margin-top: 17px; }
+.ptags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 9px; }
+.ptags span { background: #e8edde; border-radius: 4px; font-size: 10px; color: var(--olive-deep); padding: 5px 8px; }
+.p-label { border-top: 1px solid var(--rule); padding-top: 20px; }
+.plist { display: grid; gap: 10px; margin-bottom: 20px; }
+.pnote { font-size: 13px; line-height: 1.85; padding: 17px; background: #eaf0e2; border-radius: 6px; margin-bottom: 24px; }
+.pnote b { display: block; font-size: 10px; text-transform: uppercase; letter-spacing: .08em; margin-bottom: 6px; }
+.pcard .btn { margin-top: auto; }
+
+/* Profile, patient stories, and practical details each have their own visual rhythm. */
+.surgeon { background: var(--teal); padding: 86px 0; }
+.surgeon-grid { display: grid; grid-template-columns: .83fr 1.17fr; gap: 64px; align-items: start; }
+.surgeon .photo-window { aspect-ratio: 3 / 4; border-radius: 6px 6px 110px 6px; }
+.surgeon .plate img { width: 100%; height: 100%; position: absolute; inset: 0; object-position: 50% 50%; }
+.surgeon .plate-frame { display: none; }
+.surgeon h2 { font-size: clamp(40px,4.3vw,64px); }
+.on-dark h2 { color: white; }
+.on-dark .kicker { color: var(--sage); }
+.on-dark .lede { color: #d6e1da; font-size: 15px; }
+.cred { margin-top: 28px; }
+.cred li { color: #dde5df; font-size: 14px; padding: 12px 0 12px 20px; position: relative; line-height: 1.8; border-bottom: 1px solid #ffffff26; }
+.cred li i { position: absolute; left: 0; top: 12px; font-style: normal; color: var(--sage); }
+.cred li i::before { content: '+'; }
+.cred b { font-weight: 600; color: white; }
+.surgeon-cta { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 30px; }
+.surgeon-cta .btn-solid { background: var(--sage); color: var(--teal-deep); }
+.surgeon-cta .btn-solid:hover { background: #dce8c5; }
+.surgeon-tail { display: none; }
+.rb-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; }
+.rb-list { counter-reset: benefit; }
+.rb-list li { counter-increment: benefit; padding: 20px 0 20px 53px; border-bottom: 1px solid var(--rule); position: relative; font-size: 13px; color: var(--muted); }
+.rb-list li::before { content: '0' counter(benefit); position: absolute; left: 0; top: 21px; font-size: 13px; color: var(--olive); }
+.rb-list li:first-child { padding-top: 0; }
+.rb-list li:first-child::before { top: 1px; }
+.rb-list b { display: block; font-weight: 600; font-size: 17px; color: var(--teal); margin-bottom: 6px; }
+.note { font-size: 12px; color: var(--muted); background: var(--mint); border-radius: 6px; padding: 20px; margin-top: 23px; }
+.reviews { background: #eaf0e2; }
+.rv-top { display: flex; justify-content: space-between; align-items: end; gap: 30px; margin-bottom: 36px; }
+.rv-top h2 { max-width: 550px; }
+.rv-score { display: flex; align-items: center; gap: 14px; flex-shrink: 0; }
+.rv-score .num { font-size: 40px; color: var(--teal); line-height: 1; }
+.rv-score .n { font-size: 11px; color: var(--muted); margin-top: 8px; }
+.rv-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 20px; }
+.rv { background: #fffefa; border: 1px solid #dce3d5; padding: 30px; border-radius: 10px; display: flex; flex-direction: column; }
+.rv .st { color: var(--review-star); letter-spacing: 3px; font-size: 13px; margin-bottom: 17px; }
+.rv p { font-size: 14px; line-height: 1.9; margin-bottom: 25px; }
+.rv .who { margin-top: auto; padding-top: 18px; border-top: 1px solid var(--rule-soft); font-size: 13px; font-weight: 600; }
+.rv .src { font-size: 11px; color: var(--muted); margin-top: 2px; }
+.rv-more { text-align: center; margin-top: 32px; }
+.faq-grid { display: grid; grid-template-columns: .75fr 1.25fr; gap: 90px; align-items: start; }
+.faq-head { position: sticky; top: 155px; }
+.faq-head h2 { margin-bottom: 20px; }
+.faq-head .lede { font-size: 15px; }
+.faq-list { border-top: 1px solid var(--rule); }
+.fq { border-bottom: 1px solid var(--rule); }
+.q { position: relative; width: 100%; text-align: left; background: none; border: 0; padding: 21px 40px 21px 0; color: var(--teal); font-size: 14px; font-weight: 500; line-height: 1.6; }
+.q i { position: absolute; right: 0; top: 22px; height: 22px; width: 22px; background: #e8edde; border-radius: 50%; }
+.q i::before,.q i::after { content: ''; background: var(--olive); position: absolute; }
+.q i::before { width: 10px; height: 1px; top: 11px; left: 6px; }
+.q i::after { height: 10px; width: 1px; top: 6px; left: 11px; }
+.fq.open .q i::after { display: none; }
+.a-in { padding: 0 32px 23px 0; font-size: 14px; line-height: 1.9; color: var(--muted); }
+.a-in a,.lede a { color: var(--olive-deep); text-decoration: underline; text-underline-offset: 3px; }
+.visit { background: #f0f2e9; }
+.visit-grid { display: grid; grid-template-columns: .85fr 1.15fr; gap: 80px; align-items: center; }
+.vi { margin-top: 28px; border-top: 1px solid var(--rule); }
+.vi li { display: grid; grid-template-columns: 110px 1fr; gap: 12px; padding-block: 18px; border-bottom: 1px solid var(--rule); }
+.vi .k { font-size: 10px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; padding-top: 3px; }
+.vi .v { font-size: 14px; line-height: 1.8; }
+.dir { margin-top: 25px; }
+.map-container { position: relative; overflow: hidden; border-radius: 12px; border: 1px solid var(--rule); }
+#location-coloradosprings-map { height: 470px; background: #dde5d5; }
+.map-card { position: absolute; top: 18px; left: 18px; right: 18px; background: white; border-radius: 7px; padding: 20px; box-shadow: 0 5px 22px #153f4012; }
+.mc-head { display: flex; justify-content: space-between; gap: 20px; }
+.map-card strong { font-size: 13px; line-height: 1.6; }
+.map-card p { font-size: 12px; color: var(--muted); margin-top: 5px; }
+.mc-actions { display: flex; gap: 8px; }
+.mc-actions a { width: 36px; height: 36px; display: grid; place-items: center; background: var(--mint); border-radius: 50%; }
+.mc-actions svg { width: 16px; height: 16px; }
+.book { background: var(--teal); }
+.book > .wrap { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: start; }
+.book-head { padding-top: 35px; }
+.book-head h2 { font-size: 50px; margin-bottom: 23px; }
+.fbox { background: white; border-radius: 12px; padding: 16px; }
+.fembed iframe { width: 100%; height: 656px; min-height: 656px; display: block; border: 0; }
+.ftr { background: var(--teal-deep); color: #d7e0da; padding: 35px 0; text-align: center; }
+.ftr-links { display: flex; justify-content: center; gap: 32px; margin-bottom: 16px; font-size: 13px; }
+.ftr-links a:hover { text-decoration: underline; }
+.ftr-note { font-size: 11px; color: #b7c5bd; margin-bottom: 10px; }
+.ftr-btm { font-size: 11px; color: #b7c5bd; }
+.callbar { display: none; }
+.ovl { display: none; position: fixed; inset: 0; z-index: 1200; background: #0b242bc2; overflow-y: auto; padding: 30px 20px; }
+.ovl.on { display: block; }
+.mbox { background: white; max-width: 650px; width: 100%; padding: 30px; border-radius: 14px; margin: 0 auto; position: relative; }
+.mx { position: absolute; right: 15px; top: 15px; border: 0; border-radius: 50%; width: 38px; height: 38px; background: var(--mint); display: grid; place-items: center; }
+.mx svg { height: 18px; width: 18px; }
+.mbox h3 { text-align: center; padding: 0 30px; font-size: 25px; font-family: 'DM Serif Display',serif; font-weight: 400; }
+.msub { text-align: center; font-size: 13px; color: var(--muted); margin: 12px 0 20px; }
+
+@media (max-width: 1200px) {
+  .hdr-tel { display: none; }
+  .hdr-in { gap: 22px; padding-inline: 28px; }
+  .hdr-nav ul { gap: 20px; }
+  .hero-grid { column-gap: 45px; }
+  .hero-btns .btn { padding-inline: 16px; }
+  .surgeon-grid,.rb-grid,.faq-grid,.visit-grid,.book > .wrap { gap: 45px; }
+}
+@media (max-width: 980px) {
+  .hdr-logo img { width: 165px; }
+  .lbl-m { display: inline; } .lbl-d { display: none; }
+  .hero-grid { grid-template-columns: 1.1fr .9fr; gap: 35px; }
+  .hero .photo-window { border-top-left-radius: 110px; }
+  .hero h1 { font-size: 49px; }
+  .hero .lede { font-size: 14px; }
+  .hero-btns .btn { font-size: 12px; }
+  .proof { gap: 20px; }
+  .ccard-body { padding: 30px; }
+  .sym { grid-template-columns: 1fr; }
+  .pgrid { gap: 12px; }
+  .pcard { padding: 24px 20px; }
+  .pcard h3 { font-size: 25px; }
+  .rv { padding: 24px; }
+}
+@media (max-width: 800px) {
+  :root { --hdr: 76px; }
+  .wrap { padding-inline: 24px; }
+  .sec { padding-block: 65px; }
+  .hdr-in { padding-inline: 24px; gap: 15px; }
+  .hdr-act { margin-left: auto; }
+  .menu-toggle { display: flex; flex-direction: column; justify-content: center; gap: 5px; background: none; border: 1px solid var(--rule); border-radius: 5px; width: 40px; height: 44px; align-items: center; order: 3; }
+  .menu-toggle span { height: 1px; width: 17px; background: var(--teal); }
+  .hdr-nav { display: none; position: absolute; top: 100%; left: 0; right: 0; background: var(--paper); border-bottom: 1px solid var(--rule); padding: 20px 24px; }
+  .hdr-nav.open { display: block; }
+  .hdr-nav ul { flex-wrap: wrap; gap: 20px 30px; }
+  .hdr-nav a { padding-block: 10px; display: inline-block; font-size: 14px; }
+  .hero { padding-top: 35px; }
+  .hero-grid { grid-template-columns: 1fr; gap: 35px; }
+  .hero h1 { max-width: 14ch; font-size: clamp(42px,7.5vw,62px); }
+  .hero-copy { padding: 0; }
+  .hero .lede { font-size: 16px; }
+  .hero-media { margin: 0 auto; width: min(100%,520px); }
+  .hero .photo-window { border-radius: 110px 6px 6px 6px; }
+  .proof { grid-template-columns: 1fr 1fr; gap: 23px; padding-block: 27px; }
+  .proof li:nth-child(2) { border-right: 0; }
+  .band-grid { gap: 35px; }
+  .band-grid li { grid-template-columns: 1fr; }
+  .band-ico { grid-row: auto; margin-bottom: 14px; }
+  .band h3 { font-size: 23px; }
+  .grp { display: block; }
+  .grp em { display: block; margin-top: 7px; }
+  .ccard { grid-template-columns: 1fr; }
+  .ccard-media { order: -1; height: 260px; min-height: 0; }
+  .ccard-media img { object-position: center 35%; }
+  .sym { grid-template-columns: 1fr 1fr; }
+  .pgrid { grid-template-columns: 1fr; gap: 20px; }
+  .pcard { padding: 30px; }
+  .pcard .gloss { min-height: 0; }
+  .surgeon-grid,.rb-grid,.faq-grid,.visit-grid,.book > .wrap { grid-template-columns: 1fr; gap: 35px; }
+  .surgeon { padding-block: 65px; }
+  .surgeon-grid > div:first-child { max-width: 420px; width: 100%; margin: auto; }
+  .surgeon .photo-window { border-bottom-right-radius: 90px; }
+  .rv-top { display: block; }
+  .rv-score { margin-top: 25px; }
+  .rv-grid { grid-template-columns: 1fr; }
+  .faq-head { position: static; }
+  .book-head { padding-top: 0; }
+  .book-head h2 { font-size: 42px; }
+}
+@media (max-width: 480px) {
+  .hdr-in { padding-inline: 16px; gap: 10px; }
+  .hdr-logo img { width: 130px; }
+  .hdr-cta { padding: 11px 12px; font-size: 11px; }
+  .strip { font-size: 10px; } .strip-tel,.strip em { display: none; }
+  .wrap { padding-inline: 22px; }
+  .hero .kicker { font-size: 9px; letter-spacing: .09em; }
+  .hero-btns { gap: 10px; }
+  .hero-btns .btn { width: 100%; font-size: 13px; }
+  .hero .photo-window { border-radius: 90px 6px 6px 6px; }
+  .hero-photo-caption { left: 22px; right: 22px; bottom: 22px; }
+  .hero-photo-label { font-size: 9px; letter-spacing: .1em; margin-bottom: 12px; }
+  .proof li { padding-right: 12px; font-size: 11px; }
+  .band-grid { grid-template-columns: 1fr; gap: 28px; }
+  .band-grid li { grid-template-columns: 44px 1fr; gap: 15px; }
+  .band-ico { grid-row: 1 / 3; }
+  .band h3 { font-size: 21px; }
+  .idx { margin-top: 35px; }
+  .condition-tab { flex: 1 1 40%; padding: 10px 12px; text-align: left; font-size: 11px; }
+  .ccard-body { padding: 26px 23px; }
+  .ccard h3 { font-size: 29px; }
+  .sym { grid-template-columns: 1fr; }
+  .ccard-media { height: 220px; }
+  .pcard { padding: 28px 23px; }
+  .surgeon-cta .btn { width: 100%; }
+  .vi li { grid-template-columns: 85px 1fr; }
+  #location-coloradosprings-map { height: 360px; }
+  .map-card { left: 12px; right: 12px; top: 12px; padding: 15px; }
+  .fbox { padding: 8px; }
+  .mbox { padding: 26px 14px; }
+  .mbox h3 { font-size: 23px; }
+  .ovl { padding: 12px; }
+  .callbar { display: flex; align-items: center; justify-content: center; gap: 10px; position: fixed; bottom: 0; left: 0; right: 0; z-index: 800; background: var(--teal); color: white; font-size: 13px; font-weight: 600; padding: 15px 20px calc(15px + env(safe-area-inset-bottom)); box-shadow: 0 -3px 15px #143f4010; }
+  .callbar svg { width: 18px; height: 18px; }
+  body { padding-bottom: 56px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *,*::before,*::after { transition: none !important; }
+}
+@media print {
+  .hdr,.condition-nav,.callbar,.ovl,.fbox { display: none !important; }
+  .ccard[hidden],.a[hidden] { display: block !important; }
+  .sec,.surgeon { padding-block: 25px; }
+  .ccard,.pcard,.rv { break-inside: avoid; }
+}
+
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<!-- HEADER -->
+<header class="hdr">
+  <div class="strip">
+    Now accepting new gynecology patients <em>&middot;</em> <a class="strip-tel" href="tel:7197825336">Call (719) 782-5336 to get started</a>
+  </div>
+  <div class="hdr-in">
+    <a class="hdr-logo" href="https://associates-obgyn.com/" target="_blank" rel="noopener" aria-label="Associates in Obstetrics and Gynecology — visit homepage">
+      <img src="https://assets.cdn.filesafe.space/hePQrlM9vLaLnFwGMKsC/media/6a956e70276f28ee53899d92.webp" alt="Associates in Obstetrics and Gynecology, P.C." width="420" height="120">
+    </a>
+    <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="page-navigation"><span></span><span></span></button>
+    <nav id="page-navigation" class="hdr-nav" aria-label="Page sections">
+      <ul>
+        <li><a href="#care">What We Treat</a></li>
+        <li><a href="#surgeon">Dr. Tubbs</a></li>
+        <li><a href="#reviews">Reviews</a></li>
+        <li><a href="#faq">FAQs</a></li>
+        <li><a href="#visit">Visit</a></li>
+      </ul>
+    </nav>
+    <div class="hdr-act">
+      <a class="hdr-tel" href="tel:7197825336">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 4h3.4l1.7 4.4-2.1 1.7a12.7 12.7 0 0 0 6.4 6.4l1.7-2.1 4.4 1.7v3.4c0 1-.8 1.8-1.8 1.7-8-.6-14.6-7.2-15.2-15.2C3.9 4.9 4.7 4 5.7 4Z"/></svg>(719) 782-5336
+      </a>
+      <button class="btn btn-solid hdr-cta" type="button" onclick="openBook()">
+        <span class="lbl-m">Book Appointment</span><span class="lbl-d">Schedule an Appointment</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+<!-- HERO -->
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="an hero-copy">
+      <span class="kicker"><span></span>Board-certified GYN care in Colorado Springs</span>
+      <h1>Gynecologic care that takes your <em>symptoms seriously.</em></h1>
+      <p class="lede">Heavy bleeding, pelvic pain, fibroids, prolapse &mdash; you shouldn't have to just live with it, or fight to be taken seriously. Dr. Jack Tubbs, MD, FACOG and our Colorado Springs team find the cause and treat it, with experienced, personalized care that includes advanced, minimally invasive robotic surgery.</p>
+      <div class="hero-btns">
+        <button class="btn btn-solid" type="button" onclick="openBook()">
+          <svg class="btn-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="4.5" width="17" height="16"/><path d="M3.5 9.5h17M8 3v3M16 3v3"/></svg>Schedule an Appointment
+        </button>
+        <a class="btn btn-line" href="tel:7197825336">
+          <svg class="btn-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 4h3.4l1.7 4.4-2.1 1.7a12.7 12.7 0 0 0 6.4 6.4l1.7-2.1 4.4 1.7v3.4c0 1-.8 1.8-1.8 1.7-8-.6-14.6-7.2-15.2-15.2C3.9 4.9 4.7 4 5.7 4Z"/></svg>Call to Get Started
+        </a>
+      </div>
+      <div class="gbadge">
+        <svg class="gmark" viewBox="0 0 48 48" aria-hidden="true"><path fill="#4285F4" d="M45.1 24.5c0-1.6-.1-3.2-.4-4.7H24v8.9h11.8c-.5 2.7-2 5-4.4 6.6v5.5h7.1c4.2-3.8 6.6-9.5 6.6-16.3z"/><path fill="#34A853" d="M24 46c5.9 0 10.9-2 14.5-5.2l-7.1-5.5c-2 1.3-4.5 2.1-7.4 2.1-5.7 0-10.6-3.9-12.3-9.1H4.4v5.7C8 41.3 15.4 46 24 46z"/><path fill="#FBBC05" d="M11.7 28.3c-.4-1.3-.7-2.7-.7-4.3s.2-2.9.7-4.3v-5.7H4.4C2.9 17 2 20.4 2 24s.9 7 2.4 10l7.3-5.7z"/><path fill="#EA4335" d="M24 10.6c3.2 0 6.1 1.1 8.4 3.3l6.3-6.3C34.9 4.1 29.9 2 24 2 15.4 2 8 6.7 4.4 13.7l7.3 5.7c1.7-5.2 6.6-9.1 12.3-9.1z"/></svg>
+        <div class="g">4.5</div>
+        <div>
+          <div class="st"><svg class="stars" viewBox="0 0 105 20" role="img" aria-label="Rated 4.5 out of 5"><defs><linearGradient id="hs1"><stop offset="50%" stop-color="currentColor"/><stop offset="50%" stop-color="currentColor" stop-opacity="0.26"/></linearGradient></defs><path transform="translate(0,0)" d="M10 1.6l2.58 5.42 5.92.79-4.35 4.11 1.12 5.87L10 14.92l-5.27 2.87 1.12-5.87L1.5 7.81l5.92-.79z" fill="currentColor"/><path transform="translate(21,0)" d="M10 1.6l2.58 5.42 5.92.79-4.35 4.11 1.12 5.87L10 14.92l-5.27 2.87 1.12-5.87L1.5 7.81l5.92-.79z" fill="currentColor"/><path transform="translate(42,0)" d="M10 1.6l2.58 5.42 5.92.79-4.35 4.11 1.12 5.87L10 14.92l-5.27 2.87 1.12-5.87L1.5 7.81l5.92-.79z" fill="currentColor"/><path transform="translate(63,0)" d="M10 1.6l2.58 5.42 5.92.79-4.35 4.11 1.12 5.87L10 14.92l-5.27 2.87 1.12-5.87L1.5 7.81l5.92-.79z" fill="currentColor"/><path transform="translate(84,0)" d="M10 1.6l2.58 5.42 5.92.79-4.35 4.11 1.12 5.87L10 14.92l-5.27 2.87 1.12-5.87L1.5 7.81l5.92-.79z" fill="url(#hs1)"/></svg></div>
+          <div class="n">400+ Google reviews</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="an hero-media">
+      <div class="plate">
+        <span class="plate-frame"></span>
+        <div class="photo-window">
+          <img src="https://assets.cdn.filesafe.space/hePQrlM9vLaLnFwGMKsC/media/6a955e229ced56098acb94f1.webp" alt="Woman in a calm clinic setting, representing patients cared for at Associates in Obstetrics and Gynecology" width="1000" height="1250" fetchpriority="high">
+          <div class="hero-photo-caption">
+            <span class="hero-photo-label">CARE THAT SEES THE WHOLE YOU</span>
+            <span class="hero-photo-message">A new chapter<br>in feeling like yourself.</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+      <ul class="proof">
+        <li><b>Dr. Jack Tubbs, MD</b>Board-certified GYN surgeon, FACOG</li>
+        <li><b>Respected</b>Voted Top Doc by peers, 13 years running</li>
+        <li><b>Experienced</b>Over 2,200 robotic cases to date; proctors and teaches other surgeons</li>
+        <li><b>Responsive</b>Listens to patient concerns</li>
+      </ul>
+  </div>
+
+  <div class="band on-dark">
+    <div class="wrap band-in">
+      <ul class="band-grid">
+        <li class="an">
+          <svg class="band-ico" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="5" y="8" width="30" height="27" rx="3"/><path d="M5 16h30M13 4v7M27 4v7"/><path d="M16 25.5l3 3 6-6.5"/>
+          </svg>
+          <h3>Appointments that actually open up</h3>
+          <p>We hold time for new gynecology patients, so you're not waiting months to be seen about something that's bothering you now.</p>
+        </li>
+        <li class="an">
+          <svg class="band-ico" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M20 4 7 9.5v9.8C7 28 12.5 34.6 20 36.5 27.5 34.6 33 28 33 19.3V9.5L20 4Z"/><path d="M15 20l3.6 3.6L26 16"/>
+          </svg>
+          <h3>Surgery only if you really need it</h3>
+          <p>A lot of what we see gets better without an operation. If surgery is the right answer, it's usually done through a few small cuts.</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- CARE -->
+<section class="sec care" id="care">
+  <div class="wrap">
+    <div class="idx-head an">
+      <span class="kicker"><span></span>Gynecology &amp; GYN surgery</span>
+      <h2>Does any of this sound like you?</h2>
+      <p class="lede">If you recognize yourself below, there's a name for what you're experiencing and there are things we can do about it. Here's what we treat most often, and what happens next.</p>
+    </div>
+
+    <div class="idx">
+      <div class="grp an">Conditions we treat <em>What we check for, and how we treat it without surgery</em></div>
+      <nav class="condition-nav" aria-label="Conditions we treat" hidden></nav>
+      <div class="care-list">
+        <article class="ccard an">
+          <div class="ccard-body">
+            <h3>Uterine Fibroids <span class="gloss">growths in or on the uterus</span></h3>
+            <p class="card-intro">Noncancerous growths in or on the uterus. They're extremely common, and many women have them for years before anything is said about them.</p>
+            <div class="sym-label">Symptoms</div>
+            <ul class="sym">
+              <li>Periods so heavy you plan your day around them</li>
+              <li>Pelvic pain, pressure or bloating</li>
+              <li>Needing the bathroom far more often</li>
+              <li>Difficulty getting pregnant</li>
+              <li>Feeling worn out or short of breath from blood loss</li>
+            </ul>
+            <p class="card-note"><b>You don't have to just cope with it.</b> We confirm what's there with ultrasound, then talk through everything from watching and waiting to removal through a few small cuts.</p>
+            <button class="card-cta" type="button" onclick="openBook()">Discuss your fibroid options</button>
+          </div>
+        <div class="ccard-media"><img src="https://assets.cdn.filesafe.space/hePQrlM9vLaLnFwGMKsC/media/6a96c8c728f06327141c01e9.webp" alt="Woman sitting on a sofa at home with a hand resting low on her abdomen, uncomfortable with heavy periods and pelvic pain" loading="lazy" width="1200" height="1200"></div>
+          </article>
+        <article class="ccard an">
+          <div class="ccard-body">
+            <h3>Uterine &amp; Pelvic Organ Prolapse <span class="gloss">when the uterus or bladder drops down</span></h3>
+            <p class="card-intro">When the muscles of the pelvic floor weaken, the uterus, bladder or rectum can shift downward. It's far more common than most women are ever told.</p>
+            <div class="sym-label">Symptoms</div>
+            <ul class="sym">
+              <li>A feeling of heaviness or pressure low down</li>
+              <li>A bulge you can feel or see</li>
+              <li>Leaking when you cough, laugh or lift</li>
+              <li>Discomfort during sex</li>
+              <li>Constipation, or trouble emptying your bladder</li>
+            </ul>
+            <p class="card-note"><b>You have real options here.</b> They run from exercises that strengthen the muscles, to a small support device called a pessary, to robotic repair. Surgery is not the automatic answer.</p>
+            <button class="card-cta" type="button" onclick="openBook()">Ask about prolapse repair</button>
+          </div>
+        <div class="ccard-media"><img src="https://assets.cdn.filesafe.space/hePQrlM9vLaLnFwGMKsC/media/6a96cb72389c8c4614050324.webp" alt="Woman pausing mid-lift in her kitchen with a hand pressed low on her abdomen, feeling pelvic pressure" loading="lazy" width="1200" height="1200"></div>
+          </article>
+        <article class="ccard an">
+          <div class="ccard-body">
+            <h3>Ovarian Cysts <span class="gloss">fluid-filled sacs on the ovary</span></h3>
+            <p class="card-intro">Fluid-filled sacs that form on the ovary. Most are harmless and clear up on their own without any treatment at all.</p>
+            <div class="sym-label">Symptoms</div>
+            <ul class="sym">
+              <li>Bloating or a constant full feeling</li>
+              <li>Pelvic pain, often on one side</li>
+              <li>Pain during sex or around your period</li>
+            </ul>
+            <p class="card-note"><b>Sudden, severe abdominal pain needs care right away.</b> Otherwise we size and locate the cyst by ultrasound &mdash; and very often the answer is simply to keep an eye on it.</p>
+            <button class="card-cta" type="button" onclick="openBook()">Get your cyst evaluated</button>
+          </div>
+        <div class="ccard-media"><img src="https://assets.cdn.filesafe.space/hePQrlM9vLaLnFwGMKsC/media/6a96cdb5fac7854efe079b29.webp" alt="Woman standing at home with a hand resting on her lower belly, feeling bloated and uncomfortably full" loading="lazy" width="1200" height="1200"></div>
+          </article>
+        <article class="ccard an">
+          <div class="ccard-body">
+            <h3>Chronic Pelvic Pain <span class="gloss">pain low down that won't go away</span></h3>
+            <p class="card-intro">Ongoing pain that may trace back to fibroids, cysts, endometriosis or prolapse &mdash; and often takes years to get properly explained.</p>
+            <div class="sym-label">Symptoms</div>
+            <ul class="sym">
+              <li>A history of endometriosis, or pain that suggests it</li>
+              <li>Pain that's lasted six months or longer</li>
+              <li>Pain with periods, sex or exercise</li>
+              <li>Being told it's normal, or just bad cramps</li>
+            </ul>
+            <p class="card-note"><b>Pain like this is often a sign of endometriosis.</b> We work the problem until there's a cause, then treat that cause rather than masking the symptom.</p>
+            <button class="card-cta" type="button" onclick="openBook()">Get your pain investigated</button>
+          </div>
+        <div class="ccard-media"><img src="https://assets.cdn.filesafe.space/hePQrlM9vLaLnFwGMKsC/media/6a96d0a5c7069f4fc798ded7.webp" alt="Woman waiting in a clinic chair holding her medical records, tired of having her ongoing pelvic pain dismissed" loading="lazy" width="1200" height="1200"></div>
+          </article>
+        <article class="ccard an">
+          <div class="ccard-body">
+            <h3>Bleeding After Menopause <span class="gloss">any bleeding once periods have stopped</span></h3>
+            <p class="card-intro">Any bleeding or spotting once your periods have stopped for good, however light or brief it seems.</p>
+            <div class="sym-label">Symptoms</div>
+            <ul class="sym">
+              <li>Spotting or bleeding after 12+ months clear</li>
+              <li>Pink or brown discharge</li>
+              <li>Bleeding that comes and goes</li>
+            </ul>
+            <p class="card-note"><b>This is one of the few symptoms we never ask you to wait on.</b> The cause usually turns out to be harmless &mdash; but it should be checked promptly, not next year.</p>
+            <button class="card-cta" type="button" onclick="openBook()">Book a prompt evaluation</button>
+          </div>
+        <div class="ccard-media"><img src="https://assets.cdn.filesafe.space/hePQrlM9vLaLnFwGMKsC/media/6a972a0b389c8c46140f8c7f.webp" alt="Woman in her sixties sitting quietly at home, concerned after noticing bleeding following menopause" loading="lazy" width="1200" height="1200"></div>
+          </article>
+      </div>
+    </div>
+
+    <div class="idx">
+      <div class="grp an">Procedures we perform <em>Surgery through a few small cuts, including da Vinci&reg; robotic surgery</em></div>
+      <div class="pgrid">
+        <article class="pcard an">
+          <h3>Hysterectomy <span class="gloss">removing the uterus</span></h3>
+          <p class="p-intro">An operation to remove the uterus. Usually considered for fibroids, bleeding that won't settle down, or prolapse that hasn't got better any other way.</p>
+          <div class="ptags"><span>da Vinci&reg; robotic</span><span>A few small cuts</span><span>Home sooner</span></div>
+          <div class="p-label">What to expect</div>
+          <ul class="plist">
+              <li>Done through a few small cuts, not one long one</li>
+              <li>Most patients go home the same day</li>
+              <li>Alternatives are talked through first</li>
+          </ul>
+          <p class="pnote"><b>Good to know</b>It ends periods and fertility for good. It's a significant decision, and it's yours &mdash; we'll go through what it would and wouldn't change for you before anything is scheduled.</p>
+          <button class="btn btn-solid" type="button" onclick="openBook()">Request a Consultation</button>
+        </article>
+        <article class="pcard an">
+          <h3>Prolapse Surgery <span class="gloss">sacral colpopexy, the gold-standard repair</span></h3>
+          <p class="p-intro">A da Vinci&reg; robotic procedure that supports the vaginal apex back into position using a piece of surgical mesh anchored near the tailbone. Considered the gold standard for lasting prolapse repair.</p>
+          <div class="ptags"><span>da Vinci&reg; robotic</span><span>Sacral colpopexy</span><span>Home sooner</span></div>
+          <div class="p-label">What to expect</div>
+          <ul class="plist">
+              <li>Done through a few small cuts, not one long one</li>
+              <li>Fewer complications than open surgery</li>
+              <li>Non-surgical options are talked through first</li>
+          </ul>
+          <p class="pnote"><b>Good to know</b>Surgery isn't the automatic answer. We start with exercises and non-surgical options like a pessary, and only recommend sacral colpopexy when it's the right next step for you.</p>
+          <button class="btn btn-solid" type="button" onclick="openBook()">Request a Consultation</button>
+        </article>
+        <article class="pcard an">
+          <h3>Endometriosis Excision <span class="gloss">surgically removing endometriosis growths</span></h3>
+          <p class="p-intro">A minimally invasive procedure, often performed with da Vinci&reg; robotic assistance, that surgically removes endometriosis growths found during surgery, done through the same small incisions used to diagnose it.</p>
+          <div class="ptags"><span>da Vinci&reg; robotic</span><span>Minimally invasive</span><span>Pain relief</span></div>
+          <div class="p-label">What to expect</div>
+          <ul class="plist">
+              <li>Often done at the same time as the diagnostic surgery</li>
+              <li>Done through a few small cuts, with robotic precision where it helps</li>
+              <li>Most patients go home the same day</li>
+          </ul>
+          <p class="pnote"><b>Good to know</b>Endometriosis has no cure, and it can return. Excision removes the growths we find during surgery to relieve pain &mdash; we'll talk through how it fits alongside hormonal and pain-management options.</p>
+          <button class="btn btn-solid" type="button" onclick="openBook()">Request a Consultation</button>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SURGEON -->
+<section class="surgeon on-dark" id="surgeon">
+  <div class="wrap surgeon-grid">
+    <div class="an">
+      <div class="plate">
+        <span class="plate-frame"></span>
+        <div class="photo-window"><img src="https://assets.cdn.filesafe.space/hePQrlM9vLaLnFwGMKsC/media/6a9557a69ced56098acaf973.webp" alt="Jack Tubbs, MD, FACOG" width="900" height="1200" loading="lazy"></div>
+      </div>
+    </div>
+    <div class="an">
+      <span class="kicker"><span></span>Meet your surgeon</span>
+      <h2>Jack Tubbs, MD, FACOG</h2>
+      <p class="lede" style="margin-top:18px;">Dr. Tubbs is a board-certified gynecologist who has built his career in Colorado Springs, and he's known for two things in particular: robotic pelvic prolapse repair, and the way he talks to his patients. Other surgeons come here to learn the first. Patients stay for the second.</p>
+      <ul class="cred">
+        <li><i></i>Specializes in <b>Advanced Robotic and Minimally Invasive Surgery</b>.</li>
+        <li><i></i>Experienced, with <b>more than 2,200 robotic surgeries</b> performed; proctors and teaches other surgeons.</li>
+        <li><i></i>Named a <b>Top Doctor</b> by his peers, 13 years running.</li>
+        <li><i></i>Performs <b>da Vinci&reg; robotic surgery</b> for prolapse repair, hysterectomy, myomectomy and endometriosis resection, plus in-office procedures such as endometrial ablation.</li>
+        <li><i></i>Responsive, and listens to patient concerns.</li>
+        <li><i></i>Completed Intuitive Surgical's advanced course in pelvic prolapse repair; performs <b>sacral colpopexy</b>, the gold-standard prolapse repair, as well as surgery for incontinence.</li>
+        <li><i></i>Trained at the <b>University of Oklahoma College of Medicine</b>, then in OB/GYN at Fitzsimons Army Hospital in Denver.</li>
+        <li><i></i>Served in <b>Desert Shield and Desert Storm</b> during the Gulf War.</li>
+      </ul>
+      <div class="surgeon-cta">
+        <button class="btn btn-solid" type="button" onclick="openBook()">Request a Consultation</button>
+        <a class="btn btn-ghost" href="tel:7197825336">Call (719) 782-5336</a>
+      </div>
+    </div>
+  </div>
+  <div class="surgeon-tail"></div>
+</section>
+
+<!-- ROBOTIC -->
+<section class="sec">
+  <div class="wrap rb-grid">
+    <div class="an">
+      <span class="kicker"><span></span>Minimally invasive surgery</span>
+      <h2>Why a few small cuts beat one long one.</h2>
+      <p class="lede" style="margin-top:18px;">With the da Vinci&reg; system, your surgeon sits at a set of controls right next to you and guides very small instruments through a few tiny openings, watching a large magnified screen &mdash; instead of making one long cut.</p>
+    </div>
+    <div class="an">
+      <ul class="rb-list">
+        <li><b>Fewer things go wrong</b>Studies of robotic prolapse repair have found fewer complications than open surgery, and about the same as keyhole surgery.</li>
+        <li><b>Usually home sooner</b>Most patients spend less time in the hospital than after open surgery, and go home the same day.</li>
+        <li><b>Smaller cuts, smaller scars</b>A few small openings instead of one long cut &mdash; so the marks left behind are small too.</li>
+      </ul>
+      <p class="note">Every operation carries some risk, and how well it goes depends on your health, your condition and your surgeon. Robotic surgery isn't right for everyone. You and your doctor decide that together, after looking at all your choices &mdash; including the ones that don't involve surgery.</p>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="sec reviews" id="reviews">
+  <div class="wrap">
+    <div class="rv-top an">
+      <h2>Women who were finally listened to.</h2>
+      <div class="rv-score">
+        <div class="num">4.5</div>
+        <div>
+          <div class="st"><svg class="stars" viewBox="0 0 105 20" role="img" aria-label="Rated 4.5 out of 5"><defs><linearGradient id="hs2"><stop offset="50%" stop-color="currentColor"/><stop offset="50%" stop-color="currentColor" stop-opacity="0.26"/></linearGradient></defs><path transform="translate(0,0)" d="M10 1.6l2.58 5.42 5.92.79-4.35 4.11 1.12 5.87L10 14.92l-5.27 2.87 1.12-5.87L1.5 7.81l5.92-.79z" fill="currentColor"/><path transform="translate(21,0)" d="M10 1.6l2.58 5.42 5.92.79-4.35 4.11 1.12 5.87L10 14.92l-5.27 2.87 1.12-5.87L1.5 7.81l5.92-.79z" fill="currentColor"/><path transform="translate(42,0)" d="M10 1.6l2.58 5.42 5.92.79-4.35 4.11 1.12 5.87L10 14.92l-5.27 2.87 1.12-5.87L1.5 7.81l5.92-.79z" fill="currentColor"/><path transform="translate(63,0)" d="M10 1.6l2.58 5.42 5.92.79-4.35 4.11 1.12 5.87L10 14.92l-5.27 2.87 1.12-5.87L1.5 7.81l5.92-.79z" fill="currentColor"/><path transform="translate(84,0)" d="M10 1.6l2.58 5.42 5.92.79-4.35 4.11 1.12 5.87L10 14.92l-5.27 2.87 1.12-5.87L1.5 7.81l5.92-.79z" fill="url(#hs2)"/></svg></div>
+          <div class="n">400+ reviews on Google</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="rv-grid">
+      <div class="rv m-on an">
+        <div class="st">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <p>I have been seeing Dr. Tubbs for 18 years for all my OBGYN needs: two pregnancies, well woman care, and most recently, a hysterectomy. Dr. Tubbs is the kindest most compassionate doctor I've ever seen. He is always thorough and takes the time to make sure my questions are answered and I've never felt rushed. I completely trusted him when I decided to have a hysterectomy. He has so much experience and is well regarded in the community as an expert in the field of GYN surgery.</p>
+        <div class="who">Stephanie S</div>
+        <div class="src">Google review</div>
+      </div>
+
+      <div class="rv m-on an">
+        <div class="st">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <p>In the 10 years that I have been having horrible menstrual cycles, no doctor has ever taken me seriously or tried to help me. Dr. Tubbs was the first person who validated my concerns and offered to help me. He is very personable and extremely professional. My surgery went smoothly and my recovery only took about 5 days until I was up and on my feet and back to relative normal. I could not recommend this office or Dr. Tubbs enough!</p>
+        <div class="who">Jessica Wood</div>
+        <div class="src">Google review</div>
+      </div>
+
+      <div class="rv m-on an">
+        <div class="st">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <p>Dr. Tubbs completed my single site hysterectomy. He is caring, compassionate, and kind in addition to performing the hysterectomy well. I had zero complications and recovery has been a breeze. I highly recommend him and everyone at his practice!</p>
+        <div class="who">Amy</div>
+        <div class="src">Google review</div>
+      </div>
+    </div>
+
+    <div class="rv-more an">
+      <a class="btn btn-teal" href="https://www.google.com/search?q=associates+in+obstetrics+and+gynecology&rlz=1C1CHBD_enIN1092IN1158&oq=&gs_lcrp=EgZjaHJvbWUqCQgFECMYJxjqAjIJCAAQLhgnGOoCMgkIARAuGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQkyNTQyajBqMTWoAgiwAgHxBf-JeX7ngv_6&sourceid=chrome&source=chrome.rb&ie=UTF-8#lrd=0x8713495efae8a7a3:0xdffd92969ff22973,1,,,," target="_blank" rel="noopener">See All Our Google Reviews</a>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="sec" id="faq">
+  <div class="wrap faq-grid">
+    <div class="faq-head an">
+      <span class="kicker"><span></span>Before you book</span>
+      <h2>Questions worth asking.</h2>
+      <p class="lede">If yours isn't answered here, call the office on <a href="tel:7197825336">(719) 782-5336</a> and just ask.</p>
+    </div>
+
+    <div class="faq-list an">
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">Are you accepting new gynecology patients?<i></i></button>
+        <div class="a"><div class="a-in">Yes. Dr. Tubbs and our care team are actively taking new gynecology patients &mdash; for an annual exam, for a specific symptom you want looked at, or for a surgical consultation. Request a time using the form on this page, or call <a href="tel:7197825336">(719) 782-5336</a>.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">Do you still provide obstetric care and deliver babies?<i></i></button>
+        <div class="a"><div class="a-in">Effective January 1, 2027, our practice will no longer provide obstetrical (pregnancy) care. We are transitioning to a gynecology-only practice and will continue to provide comprehensive gynecologic care, including surgical care, for our patients.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">How quickly can I be seen?<i></i></button>
+        <div class="a"><div class="a-in">We deliberately keep availability open for new gynecology patients so symptoms don't sit unaddressed for months. Submit the appointment request on this page and our team will call you back to arrange a time. If it's urgent, phoning the office directly is fastest.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">What happens at my first appointment?<i></i></button>
+        <div class="a"><div class="a-in">We start by talking &mdash; what you've noticed, how long it's been going on, and what you've already been told. From there your provider will examine you as appropriate, and if imaging would help, ultrasound is available in our office rather than somewhere else on another day. You'll leave knowing what we think is going on, or what we need to do next to find out. Nothing happens without being explained first, and nothing is decided for you. Appointments are necessary for all visits.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">What is da Vinci&reg; robotic surgery?<i></i></button>
+        <div class="a"><div class="a-in">It's a way of operating through a few small cuts instead of one long one. Your surgeon sits at a set of controls right beside you and guides very small instruments, watching a large magnified screen. Dr. Tubbs uses it for prolapse repair and hysterectomy, among other operations. Whether it suits you depends on your condition &mdash; that's a decision the two of you make together.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">Will I definitely need surgery?<i></i></button>
+        <div class="a"><div class="a-in">Often, no. Fibroids without significant symptoms may never need treating. Many ovarian cysts resolve on their own. Prolapse frequently responds to pelvic floor therapy or a pessary. Surgery is one option among several, and we'll go through all of them &mdash; including doing nothing for now &mdash; before recommending anything.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">What is sacral colpopexy?<i></i></button>
+        <div class="a"><div class="a-in">It's a da Vinci&reg; robotic procedure that repairs pelvic organ prolapse by supporting the vaginal apex back into position with a piece of surgical mesh anchored near the tailbone. It's considered the gold standard for lasting prolapse repair &mdash; but it's not the first option we reach for. Exercises, pelvic floor therapy and a pessary are talked through first.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">What is endometriosis excision?<i></i></button>
+        <div class="a"><div class="a-in">Excision surgically removes endometriosis growths, done during the same surgery used to diagnose them, through a few small cuts &mdash; often with da Vinci&reg; robotic assistance. Most patients go home the same day. Endometriosis has no cure and can return, so we'll also talk through hormonal and pain-management options alongside surgery.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">I've been told my symptoms are normal. Is a second opinion worth it?<i></i></button>
+        <div class="a"><div class="a-in">If something has changed and it's affecting your daily life, it's worth having properly looked at. Heavy bleeding, pain during sex, pelvic pressure and bleeding after menopause all have identifiable causes and established treatments. A good number of our patients came to us after being told elsewhere to wait it out.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">Do you offer permanent birth control?<i></i></button>
+        <div class="a"><div class="a-in">Yes &mdash; both tubal ligation and bilateral salpingectomy. Because these are permanent, we take time to talk through the alternatives, the recovery, and how settled you feel about it before scheduling anything.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">Do you take my insurance?<i></i></button>
+        <div class="a"><div class="a-in">We work with many carriers, including Aetna, Anthem BC/BS, Cigna, United HealthCare, Kaiser, HMO Colorado, PHCS, Medicare, Medicaid and CHP+. That's a short list, not a complete one. Being insured doesn't always mean a particular procedure is covered, so it's worth checking your benefits with your insurer. Or just call us on <a href="tel:7197825336">(719) 782-5336</a> and we'll help you work it out. Tricare Standard is currently out of network; Tricare Prime is accepted by referral.</div></div>
+      </div>
+
+      <div class="fq">
+        <button class="q" type="button" onclick="tog(this)">Where are you located, and what are your hours?<i></i></button>
+        <div class="a"><div class="a-in">8580 Scarborough Drive, Suite 100, Colorado Springs, CO 80920. We're open Monday through Thursday, 8:30 am to 5 pm, and Friday 9 am to 1 pm. Appointments are necessary for all visits.</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- VISIT -->
+<section class="sec visit" id="visit">
+  <div class="wrap visit-grid">
+    <div class="an">
+      <span class="kicker"><span></span>Visit the office</span>
+      <h2>Find us in northern Colorado Springs.</h2>
+      <ul class="vi">
+        <li>
+          <div class="k">Address</div>
+          <span class="v">8580 Scarborough Drive, Suite 100<br>Colorado Springs, CO 80920</span>
+        </li>
+        <li>
+          <div class="k">Phone</div>
+          <a class="v" href="tel:7197825336">(719) 782-5336</a>
+        </li>
+        <li>
+          <div class="k">Office hours</div>
+          <span class="v">Monday &ndash; Thursday &nbsp;8:30 am &ndash; 5:00 pm<br>Friday &nbsp;9:00 am &ndash; 1:00 pm</span>
+        </li>
+      </ul>
+      <a class="btn btn-teal dir" href="https://www.google.com/maps/dir/?api=1&destination=8580+Scarborough+Dr+Suite+100+Colorado+Springs+CO+80920" target="_blank" rel="noopener">
+        <svg class="btn-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11 20 4l-7 17-3-7-7-3Z"/></svg>Get Directions
+      </a>
+    </div>
+    <div class="an">
+      <div class="map-container">
+        <div id="location-coloradosprings-map"></div>
+        <div class="map-card">
+          <div class="mc-head">
+            <strong>Associates in Obstetrics &amp; Gynecology</strong>
+            <div class="mc-actions">
+              <a aria-label="View this location on Google Maps" title="View location"
+                 target="_blank" rel="noopener"
+                 href="https://www.google.com/maps/search/?api=1&amp;query=Associates+in+Obstetrics+%26+Gynecology+8580+Scarborough+Dr+STE+100+Colorado+Springs+CO+80920"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s7-6.3 7-11.5A7 7 0 0 0 5 9.5C5 14.7 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.4"/></svg></a>
+              <a aria-label="Get directions to this location on Google Maps" title="Get directions"
+                 target="_blank" rel="noopener"
+                 href="https://maps.google.com/maps/dir//Associates+in+Obstetrics+%26+Gynecology+8580+Scarborough+Dr+STE+100+Colorado+Springs,+CO+80920/@38.9555526,-104.7319803,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x8713495efae8a7a3:0xdffd92969ff22973"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11 20 4l-7 17-3-7-7-3Z"/></svg></a>
+            </div>
+          </div>
+          <p>8580 Scarborough Dr STE 100,<br>Colorado Springs, CO 80920</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BOOK -->
+<section class="sec book on-dark" id="book">
+  <div class="wrap">
+    <div class="book-head an">
+      <span class="kicker"><span></span>Request an appointment</span>
+      <h2>Let's find out what's actually going on.</h2>
+      <p class="lede">Tell us briefly what's brought you here and how to reach you. Our team will call you back to confirm a time that works &mdash; usually within one business day.</p>
+    </div>
+    <div class="fbox an">
+      <div class="fembed">
+        <iframe
+          loading="lazy" src="https://api.onspirepulse.com/widget/form/S6kNQZgmfIurvv9Zd4Do"
+          style="width:100%;border:none;"
+          id="aogform-page-S6kNQZgmfIurvv9Zd4Do"
+          data-layout="{'id':'INLINE'}"
+          data-trigger-type="alwaysShow"
+          data-trigger-value=""
+          data-activation-type="alwaysActivated"
+          data-activation-value=""
+          data-deactivation-type="neverDeactivate"
+          data-deactivation-value=""
+          data-form-name="Form 0"
+          data-height="656"
+          data-layout-iframe-id="aogform-page-S6kNQZgmfIurvv9Zd4Do"
+          data-form-id="S6kNQZgmfIurvv9Zd4Do"
+          title="Appointment request form">
+        </iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+<!-- FOOTER -->
+<footer class="ftr">
+  <div class="wrap">
+    <div class="ftr-links">
+      <a href="https://associates-obgyn.com/" target="_blank" rel="noopener">Visit Our Website</a>
+      <a href="https://go.associates-obgyn.com/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a>
+    </div>
+    <div class="ftr-note">Persons shown in photographs are models, not actual patients. Images are for illustrative purposes only.</div>
+    <div class="ftr-btm">&copy; <span id="yr"></span> Associates in Obstetrics and Gynecology, P.C. | All rights reserved.</div>
+  </div>
+</footer>
+
+<!-- MOBILE CALL BAR -->
+<a class="callbar" href="tel:7197825336" aria-label="Call the office at (719) 782-5336">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 4h3.4l1.7 4.4-2.1 1.7a12.7 12.7 0 0 0 6.4 6.4l1.7-2.1 4.4 1.7v3.4c0 1-.8 1.8-1.8 1.7-8-.6-14.6-7.2-15.2-15.2C3.9 4.9 4.7 4 5.7 4Z"/></svg>Call (719) 782-5336
+</a>
+
+<!-- MODAL -->
+<div class="ovl" id="bookModal" role="dialog" aria-modal="true" aria-labelledby="bmTitle">
+  <div class="mbox">
+    <button class="mx" type="button" onclick="closeBook()" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    <h3 id="bmTitle">Schedule an Appointment</h3>
+    <p class="msub">Share a few details and our team will call you back to confirm your time.</p>
+    <div class="fembed">
+      <iframe
+        loading="lazy" src="https://api.onspirepulse.com/widget/form/S6kNQZgmfIurvv9Zd4Do"
+        style="width:100%;border:none;"
+        id="aogform-modal-S6kNQZgmfIurvv9Zd4Do"
+        data-layout="{'id':'INLINE'}"
+        data-trigger-type="alwaysShow"
+        data-trigger-value=""
+        data-activation-type="alwaysActivated"
+        data-activation-value=""
+        data-deactivation-type="neverDeactivate"
+        data-deactivation-value=""
+        data-form-name="Form 0"
+        data-height="656"
+        data-layout-iframe-id="aogform-modal-S6kNQZgmfIurvv9Zd4Do"
+        data-form-id="S6kNQZgmfIurvv9Zd4Do"
+        title="Appointment request form">
+      </iframe>
+    </div>
+  </div>
+</div>
+
+<!-- OAP Map -->
+<script src="https://unpkg.com/maplibre-gl@4/dist/maplibre-gl.js"></script>
+<script src="https://cdn.onspireanalytics.com/latest/maps.min.js"></script>
+<script>
+  (function(){
+    function initOapMap(){
+      // guard: libraries or container may not be present in every context
+      if (typeof maplibregl === 'undefined' || typeof OapMaps === 'undefined') return;
+      var el = document.getElementById('location-coloradosprings-map');
+      if (!el || el.dataset.oapInit) return;
+      el.dataset.oapInit = '1';
+      try{
+        OapMaps.init({ proxyUrl: "https://oap-prod-maps-proxy-rakvtqapla-ue.a.run.app" });
+        var center = [-104.7319695711642, 38.95574031965289];
+        var map = new maplibregl.Map(Object.assign(
+          OapMaps.mapOptions('location-coloradosprings-map'),
+          { center: center, zoom: 14, cooperativeGestures: true }
+        ));
+        map.addControl(new maplibregl.NavigationControl(), 'bottom-right');
+        new maplibregl.Marker({ color: '#EA4335' })
+          .setLngLat(center)
+          .setPopup(new maplibregl.Popup({ offset: 25 }).setHTML(
+            '<div><strong>Associates in Obstetrics &amp; Gynecology, Colorado Springs, CO</strong></div>'
+          ))
+          .addTo(map);
+        OapMaps.initTracking(map);
+      } catch(err){ /* map is non-critical; address and Directions link still work */ }
+    }
+    // fires whether or not DOMContentLoaded has already passed (GHL injects late)
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initOapMap);
+    } else {
+      initOapMap();
+    }
+  })();
+</script>
+
+<script src="https://api.onspirepulse.com/js/form_embed.js"></script>
+<script>
+// The original appointment provider and approved content remain intact.
+document.getElementById('yr').textContent = new Date().getFullYear();
+const modal = document.getElementById('bookModal');
+const main = document.querySelector('main');
+let previousFocus;
+const pageRegions = [main, document.querySelector('.hdr'), document.querySelector('.ftr'), document.querySelector('.callbar'), document.querySelector('.skip-link')];
+
+function openBook() {
+  previousFocus = document.activeElement;
+  modal.classList.add('on');
+  modal.removeAttribute('aria-hidden');
+  document.documentElement.style.overflow = 'hidden';
+  pageRegions.forEach(region => { region.inert = true; });
+  modal.querySelector('.mx').focus();
+}
+function closeBook() {
+  if (!modal.classList.contains('on')) return;
+  modal.classList.remove('on');
+  modal.setAttribute('aria-hidden', 'true');
+  document.documentElement.style.overflow = '';
+  pageRegions.forEach(region => { region.inert = false; });
+  previousFocus?.focus();
+}
+modal.setAttribute('aria-hidden', 'true');
+modal.addEventListener('click', event => { if (event.target === modal) closeBook(); });
+document.addEventListener('keydown', event => {
+  if (event.key === 'Escape') { closeBook(); closeMenu(); }
+  if (event.key === 'Tab' && modal.classList.contains('on')) {
+    const items = [...modal.querySelectorAll('button, a[href], iframe')];
+    const first = items[0], last = items[items.length - 1];
+    if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last.focus(); }
+    else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }
+  }
+});
+
+// Without JS, answers stay readable. With JS, buttons expose their state to assistive technology.
+document.querySelectorAll('.fq').forEach((item, index) => {
+  const button = item.querySelector('.q'), answer = item.querySelector('.a');
+  button.setAttribute('aria-expanded', 'false');
+  button.setAttribute('aria-controls', `answer-${index}`);
+  answer.id = `answer-${index}`;
+  answer.hidden = true;
+});
+function tog(button) {
+  const item = button.closest('.fq'), answer = item.querySelector('.a');
+  const expanded = button.getAttribute('aria-expanded') === 'true';
+  button.setAttribute('aria-expanded', String(!expanded));
+  item.classList.toggle('open', !expanded);
+  answer.hidden = expanded;
+}
+
+const menuButton = document.querySelector('.menu-toggle');
+const navigation = document.querySelector('.hdr-nav');
+function closeMenu() {
+  navigation.classList.remove('open');
+  menuButton.setAttribute('aria-expanded', 'false');
+  menuButton.setAttribute('aria-label', 'Open navigation');
+}
+menuButton.addEventListener('click', () => {
+  const open = navigation.classList.toggle('open');
+  menuButton.setAttribute('aria-expanded', String(open));
+  menuButton.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation');
+});
+navigation.querySelectorAll('a').forEach(link => link.addEventListener('click', closeMenu));
+
+const conditionNav = document.querySelector('.condition-nav');
+const conditions = [...document.querySelectorAll('.ccard')];
+const tabs = conditions.map((card, index) => {
+  const button = document.createElement('button');
+  button.type = 'button';
+  button.className = 'condition-tab';
+  button.textContent = card.querySelector('h3').firstChild.textContent.trim();
+  button.id = `condition-tab-${index}`;
+  button.setAttribute('role', 'tab');
+  button.setAttribute('aria-controls', `condition-${index}`);
+  card.id = `condition-${index}`;
+  card.setAttribute('role', 'tabpanel');
+  card.setAttribute('aria-labelledby', button.id);
+  card.tabIndex = 0;
+  button.addEventListener('click', () => selectCondition(index));
+  button.addEventListener('keydown', event => {
+    let next;
+    if (event.key === 'ArrowRight') next = (index + 1) % conditions.length;
+    if (event.key === 'ArrowLeft') next = (index + conditions.length - 1) % conditions.length;
+    if (event.key === 'Home') next = 0;
+    if (event.key === 'End') next = conditions.length - 1;
+    if (next !== undefined) { event.preventDefault(); selectCondition(next); tabs[next].focus(); }
+  });
+  conditionNav.append(button);
+  return button;
+});
+function selectCondition(index) {
+  conditions.forEach((card, i) => { card.hidden = i !== index; });
+  tabs.forEach((button, i) => {
+    button.setAttribute('aria-selected', String(i === index));
+    button.tabIndex = i === index ? 0 : -1;
+  });
+}
+conditionNav.setAttribute('role', 'tablist');
+conditionNav.hidden = false;
+selectCondition(0);
+
+if ('IntersectionObserver' in window) {
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
+      navigation.querySelectorAll('a').forEach(link => {
+        if (link.hash === `#${entry.target.id}`) link.setAttribute('aria-current', 'location');
+        else link.removeAttribute('aria-current');
+      });
+    });
+  }, { rootMargin: '-20% 0px -50% 0px' });
+  document.querySelectorAll('section[id]').forEach(section => observer.observe(section));
+}
+
+</script>
+
+</body>
+</html>
