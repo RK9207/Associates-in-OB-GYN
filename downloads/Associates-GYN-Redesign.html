@@ -189,10 +189,14 @@ section[id] { scroll-margin-top: 135px; }
 .idx { margin-top: 50px; }
 .grp { font-size: 19px; font-weight: 600; color: var(--teal); display: flex; align-items: center; justify-content: space-between; gap: 20px; padding-bottom: 16px; margin-bottom: 24px; border-bottom: 1px solid var(--rule); }
 .grp em { font-size: 12px; font-style: normal; font-weight: 400; color: var(--muted); }
-.condition-nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
-.condition-tab { background: transparent; border: 2px solid var(--teal); border-radius: 6px; padding: 12px 17px; font-size: 12px; font-weight: 600; color: var(--teal); min-height: 44px; }
+.condition-nav { display: grid; grid-template-columns: repeat(5,minmax(0,1fr)); gap: 12px; margin-bottom: 28px; padding: 22px; background: #eaf0e2; border-radius: 12px; border-top: 4px solid var(--teal); }
+.condition-nav::before { content: 'Select a condition to see symptoms and care options'; grid-column: 1 / -1; color: var(--teal); font-size: 15px; font-weight: 600; margin-bottom: 4px; }
+.condition-tab { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; text-align: left; background: #fffefa; border: 2px solid var(--teal); border-radius: 8px; padding: 20px 16px; font-size: 15px; font-weight: 600; color: var(--teal); min-height: 180px; transition: background .2s, box-shadow .2s; }
+.condition-title { font-size: 16px; line-height: 1.4; }
+.condition-description { font-size: 12px; font-weight: 400; line-height: 1.65; }
+.condition-action { margin-top: auto; padding-top: 12px; border-top: 1px solid currentColor; width: 100%; font-size: 11px; font-weight: 600; }
 .condition-tab[aria-selected="true"] { background: var(--teal); color: white; border-color: var(--teal); }
-.condition-tab:not([aria-selected="true"]):hover { background: var(--mint); border-color: var(--teal-deep); color: var(--teal-deep); }
+.condition-tab:not([aria-selected="true"]):hover { background: var(--mint); border-color: var(--teal-deep); color: var(--teal-deep); box-shadow: 0 5px 16px #143f4720; }
 .care-list { display: grid; gap: 24px; }
 .ccard { display: grid; grid-template-columns: 1.35fr 1fr; border: 1px solid var(--rule-soft); background: var(--mint); border-radius: 12px; overflow: hidden; }
 .ccard-body { padding: 38px 42px; }
@@ -321,6 +325,7 @@ section[id] { scroll-margin-top: 135px; }
   .surgeon-grid,.rb-grid,.faq-grid,.visit-grid,.book > .wrap { gap: 45px; }
 }
 @media (max-width: 980px) {
+  .condition-nav { grid-template-columns: repeat(3,minmax(0,1fr)); }
   .hdr-logo img { width: 165px; }
   .lbl-m { display: inline; } .lbl-d { display: none; }
   .hero-grid { grid-template-columns: 1.1fr .9fr; gap: 35px; }
@@ -399,7 +404,11 @@ section[id] { scroll-margin-top: 135px; }
   .band-ico { grid-row: 1 / 3; }
   .band h3 { font-size: 21px; }
   .idx { margin-top: 35px; }
-  .condition-tab { flex: 1 1 40%; padding: 10px 12px; text-align: left; font-size: 11px; }
+  .condition-nav { grid-template-columns: repeat(2,minmax(0,1fr)); padding: 14px; gap: 10px; }
+  .condition-nav::before { font-size: 14px; }
+  .condition-tab { padding: 16px 12px; min-height: 175px; }
+  .condition-title { font-size: 14px; }
+  .condition-tab:last-child { grid-column: 1 / -1; min-height: 130px; }
   .ccard-body { padding: 26px 23px; }
   .ccard h3 { font-size: 29px; }
   .sym { grid-template-columns: 1fr; }
@@ -1359,7 +1368,16 @@ const tabs = conditions.map((card, index) => {
   const button = document.createElement('button');
   button.type = 'button';
   button.className = 'condition-tab';
-  button.textContent = card.querySelector('h3').firstChild.textContent.trim();
+  const title = document.createElement('span');
+  title.className = 'condition-title';
+  title.textContent = card.querySelector('h3').firstChild.textContent.trim();
+  const description = document.createElement('span');
+  description.className = 'condition-description';
+  description.textContent = card.querySelector('.gloss').textContent;
+  const action = document.createElement('span');
+  action.className = 'condition-action';
+  action.textContent = 'View details ↗';
+  button.append(title, description, action);
   button.id = `condition-tab-${index}`;
   button.setAttribute('role', 'tab');
   button.setAttribute('aria-controls', `condition-${index}`);
@@ -1384,6 +1402,7 @@ function selectCondition(index) {
   tabs.forEach((button, i) => {
     button.setAttribute('aria-selected', String(i === index));
     button.tabIndex = i === index ? 0 : -1;
+    button.querySelector('.condition-action').textContent = i === index ? 'Viewing details ✓' : 'View details ↗';
   });
 }
 conditionNav.setAttribute('role', 'tablist');
